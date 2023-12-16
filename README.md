@@ -1,4 +1,7 @@
 
+Codelab Link:
+https://codelabs-preview.appspot.com/?file_id=1UoE2ldbjtoB-t7_2uKSnuCGz74pxOUx_nQk6eWQAGgI#0
+
 # Movie Recommendation System
 
 This repository contains the source code and documentation for an advanced Movie Recommendation System, integrated with a Streamlit application. The system utilizes machine learning and natural language processing techniques to provide personalized movie recommendations based on content similarity.
