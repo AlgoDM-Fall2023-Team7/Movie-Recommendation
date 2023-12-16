@@ -28,6 +28,34 @@ Our Movie Recommendation System is designed to enhance user experience by offeri
 
 Ensure you have Python 3.x installed on your system. You will also need to install several Python libraries, including Streamlit, Pandas, Scikit-Learn, Matplotlib, and Seaborn.
 
-### Installation
 
-1. **Clone the Repository**
+## Usage
+
+Input the title of a movie and the number of similar movies you want to receive as recommendations. The system will then display a list of movies similar to your input.
+
+## Project Structure
+
+- `app.py`: Main file for the Streamlit application.
+- `model/`: Contains the machine learning model and related scripts.
+- `data/`: Dataset files and data processing scripts.
+- `docs/`: Documentation and project reports.
+- `tests/`: Unit tests for the application.
+
+## Contributing
+
+Contributions to improve the system are welcome. Please read `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Authors
+
+- **Sanidhya** - Data Cleaning and EDA
+- **Arjun** - Model Development
+- **Aishwarya** - Streamlit Integration and UI Design
+
+## License
+
+This project is licensed under the MIT License - see the `LICENSE.md` file for details.
+
+## Acknowledgments
+
+- IMDb for providing the dataset.
+- All contributors who have participated in this project.
