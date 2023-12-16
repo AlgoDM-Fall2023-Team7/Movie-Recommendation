@@ -7,11 +7,11 @@ from sqlalchemy import create_engine
 st.set_page_config(page_title="Movie Recommender System", layout="wide")
 
 # Snowflake connection parameters
-snowflake_username = 'admteamseven'
-snowflake_password = 'Helloadmteamseven1'
-snowflake_account = 'bvizhln-od41629'
-snowflake_database = 'movies'
-snowflake_schema = 'movie_schema'
+snowflake_username = ''
+snowflake_password = ''
+snowflake_account = ''
+snowflake_database = ''
+snowflake_schema = ''
 
 # Create a Snowflake SQLAlchemy engine
 snowflake_connection_string = f'snowflake://{snowflake_username}:{snowflake_password}@{snowflake_account}/{snowflake_database}/{snowflake_schema}'
