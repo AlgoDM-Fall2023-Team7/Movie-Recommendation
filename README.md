@@ -48,12 +48,8 @@ Contributions to improve the system are welcome. Please read `CONTRIBUTING.md` f
 ## Authors
 
 - **Sanidhya** - Data Cleaning and EDA
-- **Arjun** - Model Development
+- **Arjun** - Model Development and Snowflake Integration
 - **Aishwarya** - Streamlit Integration and UI Design
-
-## License
-
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 
 ## Acknowledgments
 
